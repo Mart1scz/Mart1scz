@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Mart1scz
-- 👀 I’m interested in Programming, Gaming and History
-- 🌱 I’m currently making an app that is called Resource Monitor 
